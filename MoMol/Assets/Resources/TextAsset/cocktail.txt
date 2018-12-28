@@ -1,0 +1,402 @@
+401
+Bellini/ Wine Sparkling Classic Light Italy
+Kir/ Wine Classic Medium France
+Sgroppino/ Wine Sparkling Medium Italy
+French Blonde/ Wine Martini Medium France
+Sassy Sangria/ Wine Longdrink Weak Spain 
+Spritz Veneziano/ Wine Sparkling Longdrink Classic Light Italy
+Fall Fruit Sangria/ Wine Longdrink Light Spain
+Aperol Spritz/ Wine Classic Sparkling Light Italy
+Bicicletta/ Wine Longdrink Medium Italy
+Classic Sangria/ Wine Classic Longdrink Medium Spain
+The Countess/ Tequila Longdrink Medium 
+Blue Margarita/ Tequila Martini Strong Tiki_culture
+Frostbite/ Tequila Creamy Strong 
+Honeydew Margarita/ Tequila Martini Medium Mexico
+Margarita/ Tequila Classic Martini Strong Mexico
+Agave Kiss/ Tequila Martini Creamy Medium Mexico
+Pink Margarita/ Tequila Frozen Strong Mexico
+Mexicano/ Tequila Martini Medium Mexico
+Watermelon Margarita/ Tequila Frozen Medium Mexico
+California Dream/ Tequila Martini Strong USA
+Coconut Blue Hawaiian/ Rum Tropical Medium Tiki_Culture
+Cuban Almond Cigar/ Rum Martini Strong Cuba
+El Presidente/ Rum Classic Martini Strong 
+Strawberry-Coconut Daiquiri/ Rum Martini Tropical Frozen Weak Tiki_Culture
+Strawberry Daiquiri/ Rum Frozen Medium Cuba
+Bacardi/ Rum Classic Martini Medium 
+Mary Pickford/ Rum Martini Classic Medium USA
+Daiquiri/ Rum Classic Tropical Frozen Strong Cuba
+Hemingway Special/ Rum Classic Martini Strong 
+Corkscrew/ Rum Martini Strong 
+Angelo Azzurro/ Gin Martini Extremely_Strong Italy
+Blue Arrow/ Gin Martini Strong 
+Blue Bird/ Gin Martini Strong 
+Angel Face/ Gin Martini Classic Extremely_Strong 
+Derby/ Gin Classic Martini Strong USA
+Emerald Isle/ Gin Martini Strong 
+Luigi/ Gin Classic Martini Medium Italy
+Monkey Gland/ Gin Martini Strong 
+Paradise/ Gin Martini Classic Strong 
+Clover Club/ Gin Classic Martini Medium 
+Black Velvet/ Champagne Sparkling Light
+Absinthe Hemingway/ Champagne Sparkling Strong France
+Arise My Love/ Champagne Sparkling Medium
+The Ghost/ Champagne Sparkling Medium
+Champagne Dream/ Champagne Sparkling Medium France
+Kir Royale/ Champagne Classic Sparkling Medium France
+Kir Speciale/ Champagne Sparkling Medium France
+Raspberry Champagne/ Champagne Sparkling Medium
+Blueberry Ginger Bellini/ Champagne Sparkling Weak Italy
+Goodnight Kiss/ Champagne Sparkling Medium France
+Flaming Dr Pepper/ Liqueur Shooter Light
+Pisco Sour/ Liqueur Classic Sparkling Medium
+Winter Chill/ Liqueur Martini Strong
+Chocolatini/ Liqueur Martini Creamy Medium
+Grasshopper/ Liqueur Martini Classic Creamy Light
+Holiday Hopper/ Liqueur Martini Creamy Light
+Midori Sour/ Liqueur Short Light
+Scottish Licorice/ Liqueur Short Extremely_Strong UK
+Shamrock/ Liqueur Martini Medium Ireland
+Shamrock Shaker/ Liqueur Martini Creamy Light Ireland
+Espresso Martini/ Vodka Classic Martini Creamy Medium
+Ocean View/ Vodka Tropical Strong Tiki_Culture
+Chocolate Martini/ Vodka Creamy Martini Strong
+After Eight Martini/ Vodka Martini Creamy Medium UK
+Apple Martini/ Vodka Martini Strong
+Appletini/ Vodka Martini Strong
+Candy Cane Martini/ Vodka Martini Strong
+Greentini/ Vodka Martini Strong
+Grinch/ Vodka Martini Medium
+Luckytini/ Vodka Martini Medium
+Bourbon Ball/ Whiskey Martini Medium
+Bourbon Chain Toddy/ Whiskey Hot Strong
+Dubliner/ Whiskey Creamy Martini Strong Ireland
+Jack Frost Manhattan/ Whiskey Martini Extremely_Strong
+Manhattan/ Whiskey Classic Martini Extremely_Strong USA
+Maple Leaf/ Whiskey Martini Strong Canada
+Paddys Girl/ Whiskey Creamy Medium Ireland
+Rob Roy/ Whiskey Classic Short Strong
+Tipperary/ Whiskey Martini Strong Ireland
+Everybodys Irish/ Whiskey Martini Strong Ireland
+Viva Villa/ Tequila Martini Medium Spain
+Border Crossing/ Tequila Longdrink Light
+Florida Sunshine/ Tequila Tropical Light USA
+Tequila Sunrise/ Tequila Tropical Light Mexico
+Tequila Sunset/ Tequila Longdrink Tropical Medium Mexico 
+Pink Fruit/ Tequila Longdrink Medium 
+Vampiro/ Tequila Short Light 
+Doralto/ Tequila Longdrink Light 
+El Dorado/ Tequila Longdrink Medium Mexico
+Freddy Fudpucker/ Tequila Longdrink Medium Mexico
+Poker Face/ Tequila Longdrink Light 
+Ambassador/ Tequila Longdrink Medium Spain
+Turtle Time/ Tequila Short Light Mexico
+Irish Cactus/ Tequila Creamy Medium Ireland
+El Matador/ Tequila Longdrink Medium Spain
+Fresh Mint Margaritas/ Tequila Martini Medium Mexico
+Blue Tequila/ Tequila Shooter Strong Mexico
+Tequila Slammer/ Tequila Shooter Medium Mexico
+Icebreaker/ Tequila Longdrink Medium
+Four Leaf Clover/ Liqueur Longdrink Light Ireland
+Adonis/ Liqueur Martini Medium
+Golden Dream/ Liqueur Creamy Classic Strong
+Grand Tropical/ Liqueur Tropical Light
+Chocolate Covered Strawberry/ Liqueur Creamy Light
+Chocolate Raspberry Delight/ Liqueur Creamy Medium
+Kiss On The Lips/ Liqueur Martini Frozen Medium
+Charlie Chaplin/ Liqueur Classic Martini Strong
+Red Maple Sunset/ Liqueur Martini Light
+White Christmas/ Liqueur Creamy Light
+Chrysanthemum/ Liqueur Martini Strong
+Melon Ball/ Liqueur Longdrink Medium
+Peppermint Kiss/ Liqueur Longdrink Light
+Affair/ Liqueur Longdrink Weak
+Apricot Stone Sour/ Liqueur Short Medium UK
+Burning Sun/ Liqueur Longdrink Light
+Fuzzy Navel/ Liqueur Longdrink Medium
+Gladiator/ Liqueur Shooter Weak
+Southern Nectar/ Liqueur Longdrink Medium
+Campari Mojito/ Liqueur Longdrink Medium Italy
+Cherry Cola Cocktail/ Liqueur Longdrink Light
+Cherry Popper/ Liqueur Longdrink Weak 
+Peppermint Stick/ Liqueur Creamy Medium
+Sex on the Pooltable/ Liqueur Longdrink Medium
+Chocolate Kiss/ Liqueur Creamy Light
+Hot Peppermint Patty/ Liqueur Hot Creamy Light
+Elixir Of Love/ Liqueur Creamy Short Medium
+Holiday Frapple/ Liqueur Creamy Short Medium
+Sexual Chocolate/ Liqueur Creamy Medium
+Scooby Snack/ Liqueur Short Medium
+Amaretto Sour/ Liqueur Classic Short Medium Italy
+Amaretto Stone Sour/ Liqueur Short Light
+Americano/ Liqueur Short Classic Medium Italy
+Sparkling Cranberry Elderflower Cocktail/ Liqueur Longdrink Medium
+Nutty Irishman/ Liqueur Creamy Light Ireland
+Russian Santa/ Liqueur Short Medium Russia
+Lemon Sherbet Surprise/ Liqueur Short Frozen Weak
+Buttery Nipple/ Liqueur Shooter Creamy Medium
+Firecracker/ Liqueur Shooter Strong
+Orgasm/ Liqueur Shooter Creamy Strong
+Surfer on Acid/ Liqueur Shooter Tropical Medium
+Tootsie Roll/ Liqueur Shooter Creamy Strong
+Bazooka Joe/ Liqueur Shooter Creamy Medium
+Peppermint Cream/ Liqueur Shooter Creamy Medium
+After Five/ Liqueur Shooter Creamy Strong
+B52/ Liqueur Shooter Classic Creamy Strong
+B54/ Liqueur Shooter Creamy Strong
+Bloody Brain/ Liqueur Shooter Creamy Strong
+Blow Job/ Liqueur Shooter Creamy Strong
+Fourth Of July/ Liqueur Shooter Strong
+Irish Flag/ Liqueur Shooter Strong Ireland
+Liquid Cocaine/ Liqueur Shooter Strong
+Traffic Light/ Liqueur Shooter Medium
+Zipper/ Liqueur Shooter Strong
+Candy Corn/ Liqueur Shooter Creamy Strong
+Purple Hooter/ Liqueur Shooter Strong
+Red Headed Slut/ Liqueur Shooter Medium
+Peach Tart Cocktail/ Liqueur Shooter Medium
+Cement Mixer/ Liqueur Shooter Creamy Medium Ireland
+TBT/ Liqueur Shooter Extremely_Strong
+Screaming Orgasm/ Liqueur Creamy Medium 
+Midori Cosmopolitan/ Vodka Martini Medium
+Mintini/ Vodka Martini Strong
+Bikini Martini/ Vodka Martini Tropical Medium
+Carrie Bradshaw/ Vodka Martini Medium
+Cosmopolitan/ Vodka Classic Martini Medium USA
+French Martini/ Vodka Classic Martini Medium France
+The Glamour Gal/ Vodka Martini Strong
+Blueberry Martini/ Vodka Martini Strong
+Cassis Tini/ Vodka Martini Medium
+Crantini/ Vodka Martini Medium
+French Cosmo/ Vodka Martini Light France
+Poolside Passion/ Vodka Tropical Medium
+Red Rooster/ Vodka Longdrink Light
+Showbiz/ Vodka Martini Medium
+Strawberry Martini/ Vodka Martini Medium
+Dirty Martini/ Vodka Classic Martini Strong
+Soviet/ Vodka Martini Strong Russia
+Eggnog Martini/ Vodka Martini Creamy Medium
+White Christmas Dream/ Vodka Creamy Medium
+Lemon Drop Martini/ Vodka Classic Martini Strong
+Firestarter/ Vodka Longdrink Strong Russia
+Amf/ Vodka Longdrink Light Mexico
+Blue Kamikaze/ Vodka Longdrink Medium
+Blue Lagoon/ Vodka Tropical Medium
+Sea Bottom/ Vodka Longdrink Creamy Medium Tiki_Culture
+Green Parrot/ Vodka Tropical Medium
+Jingle Juice/ Vodka Longdrink Light
+Blood Orange/ Vodka Longdrink Strong
+Bloody Screwdriver/ Vodka Longdrink Strong
+Bocce Ball/ Vodka Longdrink Light
+Sex on the Beach/ Vodka Longdrink Classic Medium
+Valentines Day on the Rocks/ Vodka Longdrink Light
+Woo Woo/ Vodka Longdrink Light
+Cranberry Kick/ Vodka Longdrink Weak
+Purple Passion/ Vodka Longdrink Light
+Bay Breeze/ Vodka Longdrink Tropical Light Cuba
+Bloody Mary/ Vodka Classic Longdrink Light
+Russian Spring Punch/ Vodka Longdrink Classic Medium Russia
+Southside/ Vodka Martini Strong
+Elderflower Cooler/ Vodka Longdrink Strong UK
+Harvey Wallbanger/ Vodka Classic Longdrink Medium
+Moscow Mule/ Vodka Classic Longdrink Light USA
+Screwdriver/ Vodka Longdrink Classic Light
+Swimming Pool/ Vodka Tropical Light Tiki_Culture
+Black Santa/ Vodka Short Strong
+Mind Eraser/ Vodka Short Medium Russia
+White Russian/ Vodka Classic Creamy Short Medium USA
+God Mother/ Vodka Short Extremely_Strong
+Caipiroshka/ Vodka Short Medium Brazil
+Green Russian/ Vodka Short Extremely_Strong Russia
+Vodka Stinger/ Vodka Short Strong Russia
+Hawaiian Vodka/ Vodka Tropical Medium Tiki_Culture
+Orange Splash/ Vodka Short Strong
+Greyhound/ Vodka Longdrink Medium USA
+Salty Dog/ Vodka Classic Longdrink Light
+Sea Breeze/ Vodka Longdrink Classic Light Tiki_Culture
+Cape Codder/ Vodka Longdrink Light USA
+Red Russian/ Vodka Short Strong Russia
+Citrus Splash/ Vodka Longdrink Light
+Colorado Bulldog/ Vodka Creamy Short Medium
+Mudslide/ Vodka Creamy Strong
+The Pineapple Up-Sides-Down/ Vodka Short Strong
+Tolstoy Tang/ Vodka Short Medium Russia
+Chocolate Cake/ Vodka Shooter Extremely_Strong
+Nuts and Berries/ Vodka Shooter Medium
+The Patriot/ Vodka Shooter Medium
+Zambodian/ Vodka Shooter Strong
+Strawberry Vodka Shooter/ Vodka Shooter Medium Russia
+Amarena Chupito/ Vodka Shooter Extremely_Strong
+Kamikaze/ Vodka Shooter Strong
+Apple Pie/ Vodka Shooter Creamy Medium UK
+Summer Sunset/ Vodka Longdrink Strong
+Tiger Juice/ Whiskey Martini Medium
+Ward Eight/ Whiskey Classic Medium
+La Louisiane/ Whiskey Martini Extremely_Strong Canada
+Egg-nog/ Whiskey Creamy Strong
+Irish Blonde/ Whiskey Martini Strong Ireland
+Scotch and Schnapps Sweetheart/ Whiskey Martini Strong
+Rye and Ginger/ Whiskey Longdrink Medium Canada
+Kerry Cooler/ Whiskey Longdrink Medium
+Red Snapper/ Whiskey Longdrink Medium Canada
+CC Express/ Whiskey Longdrink Medium
+Irish Buck/ Whiskey Longdrink Light Ireland
+Irish Gold/ Whiskey Longdrink Medium Ireland
+Mint Julep/ Whiskey Classic Longdrink Strong
+Weissen Sour/ Whiskey Longdrink Medium
+Whisky Buck/ Whiskey Longdrink Medium Ireland
+Blizzard/ Whiskey Creamy Light Ireland
+Irish Coffee/ Whiskey Hot Classic Creamy Light Ireland
+Warm and Toasty/ Whiskey Hot Light
+God Father/ Whiskey Classic Short Extremely_Strong
+Irish Canadian Sangree/ Whiskey Short Medium Canada
+Irish Shillelagh/ Whiskey Short Strong Ireland
+Merry Irishman/ Whiskey Short Strong Ireland
+Morning Glory/ Whiskey Short Medium
+Old Fashioned/ Whiskey Classic Short Medium USA
+Rusty Nail/ Whiskey Classic Short Extremely_Strong
+Sazerac/ Whiskey Classic Short Extremely_Strong USA
+The Nor easter/ Whiskey Longdrink Weak USA
+Irish Eyes/ Whiskey Creamy Light Ireland
+Sun Crush/ Whiskey Short Extremely_Strong
+Maple Berry Breeze/ Whiskey Short Light Canada
+New Yorker/ Whiskey Classic Short Medium USA
+Pomegranate Manhattan/ Whiskey Longdrink Strong
+Irish Fix/ Whiskey Short Medium Ireland
+Leprechaun/ Whiskey Short Medium Ireland
+Muskoka Maple Splash/ Whiskey Short Medium Russia
+Three Wise Men/ Whiskey Shooter Extremely_Strong
+Washington Apple/ Whiskey Shooter Medium Canada
+Anaconda/ Whiskey Shooter Strong
+Red Royal/ Whiskey Shooter Extremely_Strong Canada
+Snow Cap/ Whiskey Creamy Medium
+The Classic Mamie Taylor/ Whiskey Classic Sparkling Medium
+The Sour/ Whiskey Short Medium
+Cuba Special/ Rum Tropical Extremely_Strong Cuba
+Yellow Bird/ Rum Longdrink Classic Strong
+Blue Long Island/ Rum Longdrink Medium Tiki_Culture
+Cuba Libre/ Rum Classic Longdrink Light Cuba
+Long Island Ice Tea/ Rum Classic Longdrink Medium USA
+Muddy Water/ Rum Longdrink Light Russia
+Barracuda/ Rum Tropical Classic Longdrink Medium
+Brass Monkey/ Rum Longdrink Medium 
+Mai Tai/ Rum Classic Tropical Strong Tiki_Culture
+Mai Tai Light/ Rum Tropical Medium Tiki_Culture
+Planters Punch/ Rum Longdrink Tropical Classic Medium
+Well Heeled/ Rum Longdrink Medium
+Malibu Beach/ Rum Tropical Weak Tiki_Culture
+Pink Rum/ Rum Longdrink Medium
+Strawberry Mojito/ Rum Longdrink Light
+Culto a La Vida/ Rum Longdrink Medium Cuba
+El Nino/ Rum Longdrink Strong
+Havana Raspberry/ Rum Longdrink Medium Cuba
+Para Cuba/ Rum Longdrink Medium Cuba
+Rudolph the Red Nosed Reindeer/ Rum Longdrink Weak 
+Rum Punch/ Rum Longdrink Medium Cuba
+Watermelon Mojito/ Rum Longdrink Medium
+Costa Del Sol/ Rum Tropical Light Spain
+Mojito/ Rum Classic Longdrink Light
+Rum Fizz/ Rum Longdrink Light
+Havana Cooler/ Rum Longdrink Strong
+National De Cuba/ Rum Longdrink Medium Cuba
+Blue Hawaiian/ Rum Tropical Medium Tiki_Culture
+Zombie/ Rum Classic Longdrink Strong Tiki_Culture
+Bahama Mama/ Rum Tropical Light Tiki_Culture
+Caribbean Lovers/ Rum Tropical Light Tiki_Culture
+Fruity Rum Punch/ Rum Longdrink Light
+Hurricane/ Rum Tropical Strong Tiki_Culture
+Strawberry Colada/Rum Longdrink Tropical Light
+Pina Colada/ Rum Tropical Classic Light
+Acapulco/ Rum Tropical Medium
+Tropical Dream/ Rum Tropical Medium
+Ski Lift/ Rum Hot Medium
+Grown Up Cherry Cola/ Rum Longdrink Strong
+Painkiller/ Rum Tropical Light Tiki_Culture
+Caipirissima/ Rum Short Strong Brazil
+Wharf Rat/ Rum Short Strong UK
+Cuban Peach/ Rum Short Light Cuba
+Havana Beach/ Rum Tropical Weak Cuba
+Fireball/ Rum Shooter Strong
+Pink Gin/ Gin Classic Martini Strong UK
+Pink Lady/ Gin Martini Strong
+Aviation/ Gin Classic Martini Strong USA
+Elderflower Cosmopolitan/ Gin Martini Medium
+Silver Autumn Blossom/ Gin Martini Light
+Casino/ Gin Classic Martini Strong
+Cornell/ Gin Martini Strong
+Dry Martini/ Gin Classic Martini Extremely_Strong Italy
+Knockout/ Gin Martini Extremely_Strong
+Montgomery/ Gin Martini Extremely_Strong
+The Gin Sour/ Gin Classic Short Strong UK
+Vesper/ Gin Classic Martini Extremely_Strong UK
+White Lady/ Gin Classic Martini Strong
+Tuxedo/ Gin Martini Classic Strong
+Bronx/ Gin Classic Martini Strong USA
+Bronx Dry/ Gin Martini Strong
+French Gimlet/ Gin Martini Strong France
+Gin and Apricot Martini/ Gin Martini Strong
+Maidens Prayer/ Gin Strong
+Cubata/ Gin Longdrink Medium Cuba
+Filur/ Gin Longdrink Medium
+Alabama Slammer/ Gin Longdrink Medium USA
+Bird Of Paradise/ Gin Tropical Medium
+Gina/ Gin Longdrink Medium
+Collins/ Gin Classic Longdrink Light
+Gin Fizz/ Gin Classic Longdrink Light USA
+Gin Rickey/ Gin Longdrink Light UK
+Gin Swizzle/ Gin Longdrink Medium UK
+Gin Tonic/ Gin Longdrink Light UK
+Lime Gin Fizz/ Gin Longdrink Light
+Limoncello Gin/ Gin Longdrink Medium Italy
+Ramos Fizz/ Gin Longdrink Creamy Classic Light
+Basil Crush/ Gin Longdrink Medium
+Gin Apple And Elderflower/ Gin Longdrink Medium UK
+Silver Fizz/ Gin Longdrink Classic Light
+The Fitzgerald/ Gin Short Strong
+American Beauty/ Gin Short Medium
+Bermuda Rose/ Gin Martini Strong
+Gin Daisy/ Gin Longdrink Light UK
+Bramble/ Gin Classic Short Strong UK
+Cardinale/ Gin Classic Short Extremely_Strong Italy
+Negroni/ Gin Classic Short Strong Italy
+Flying Dutchman/ Gin Classic Short Strong
+Holiday Almond/ Gin Short Medium
+Orange Blossom/ Gin Longdrink Medium
+Rossini/ Champagne Sparkling Light Italy
+There Will Be Rum/ Champagne Sparkling Medium
+Champagne Cocktail/ Champagne Classic Sparkling Medium France
+Midnight Millionaire/ Champagne Sparkling Medium France
+Champagne Julep/ Champagne Sparkling Medium France
+Diamond Fizz/ Champagne Medium
+French 77/ Champagne Sparkling Medium France
+French 75/ Champagne Classic Sparkling Medium France
+Happy Youth/ Champagne Sparkling Medium
+Mimosa/ Champagne Classic Sparkling Light France
+Pear Batida/ Champagne Sparkling Medium
+French 76/ Champagne Sparkling Medium France
+Night and Day/ Champagne Sparkling Medium
+Alexander/ Martini Classic Creamy Strong UK
+Brandy Alexander/ Creamy Medium UK
+Brandy Perfect/ Martini Strong UK
+Burnt Orange/ Short Medium
+Charles Cocktail/ Martini Strong
+St Kitts/ Martini Strong UK
+Stinger/ Classic Martini Strong
+Porto Flip/ Martini Medium
+City Slicker/ Martini Strong
+Santas Sleigh/ Martini Creamy Weak
+Between the Sheets/ Classic Martini Strong
+Sidecar/ Classic Martini Strong
+Brandy Cuban/ Longdrink Light Cuba
+Red Brandy Sunset/ Longdrink Light
+Horses Neck/ Longdrink Light
+Patriot Punch/ Longdrink Strong Ireland
+Chicago/ Classic Short Extremely_Strong
+Brandy Smash/ Short Medium
+Black and Tan/ Beer Longdrink Weak UK
+Hangmans Blood/ Beer Longdrink Medium UK
+Michelada/ Beer Longdrink Weak
+Red Eye/ Beer Longdrink Weak
+Steamroller/ Beer Longdrink Light
+Harvey Weissbanger/ Beer Longdrink Light

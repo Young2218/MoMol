@@ -1,0 +1,9 @@
+8
+icecream(sparkling)/2/Sparkling,Creamy/ice1,ice2
+Car(amount)/3/Shooter,Short,Longdrink/car1,car2,car3
+poketmon(hot vs. ice)/2/Hot,Frozen/p2,p1
+base1/4/Vodka,Brandy,Wine,Gin/water,juice,wine,gin
+animal(strength)/3/Nonalcoholic,Weak,Light/fly,cat,dog
+animal/3/Medium,Strong,Extremely_Strong/go,lion,dino
+base2/4/Rum,Champagne,Liqueur,Whiskey/sugar,soda,horo,morning
+drink(type)/3/Tropical,Martini,Classic/wel,tri,7star
